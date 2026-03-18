@@ -76,6 +76,14 @@ Server Health Score = 100 - (CPU_Utilization + Memory_Usage + Disk_IO) / 3
 
 ---
 
+## Dashboard Preview
+
+### Overview Dashboard
+![Dashboard Overview](Dashboard_1.png)
+
+### Network & Performance Analysis
+![Network Analysis](Dashboard_2.png)
+
 ## Dashboard Capabilities
 
 The Power BI dashboard provides a structured and interactive view of server performance metrics, focusing on the following key areas:
