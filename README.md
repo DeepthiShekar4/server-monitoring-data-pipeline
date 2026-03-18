@@ -79,10 +79,10 @@ Server Health Score = 100 - (CPU_Utilization + Memory_Usage + Disk_IO) / 3
 ## Dashboard Preview
 
 ### Overview Dashboard
-![Dashboard Overview](Dashboard_1.png)
+![Dashboard Overview](Dashboard_1.jpeg)
 
 ### Network & Performance Analysis
-![Network Analysis](Dashboard_2.png)
+![Network Analysis](Dashboard_2.jpeg)
 
 ## Dashboard Capabilities
 
